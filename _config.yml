@@ -1,0 +1,28 @@
+name: Eventible
+favicon: null
+layout_spectrum: 0.4694361896254122
+typography_spectrum: 0.8431208492256701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3867768798954785
+  lightness: 0.5963678939733654
+  saturation: 0.4637448217254132
+  rhythmicContrast: 0.21341665321961045
+purpose: []
